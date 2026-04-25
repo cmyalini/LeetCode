@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/cmyalini/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cmyalini/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/cmyalini/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/cmyalini/LeetCode/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/cmyalini/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/cmyalini/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/cmyalini/LeetCode/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/cmyalini/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
