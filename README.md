@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/cmyalini/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/cmyalini/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/cmyalini/LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/cmyalini/LeetCode/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/cmyalini/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/cmyalini/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/cmyalini/LeetCode/tree/master/0704-binary-search) |
@@ -94,4 +95,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/cmyalini/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/cmyalini/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/cmyalini/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/cmyalini/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
