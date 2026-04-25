@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/cmyalini/LeetCode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/cmyalini/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/cmyalini/LeetCode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/cmyalini/LeetCode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/cmyalini/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Data Stream
 |  |
 | ------- |
